@@ -8,6 +8,7 @@ int main() {
     {
         cin >> a[i];
     }
+    cout<<'add';
     cout << "Hello, World!"<<endl;
     cout << "wow";
 }
