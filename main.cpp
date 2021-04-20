@@ -10,5 +10,4 @@ int main() {
     }
     cout<<'add';
     cout << "Hello, World!"<<endl;
-    cout << "wow";
 }
